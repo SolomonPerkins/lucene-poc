@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "1138505981460193280",
+            "created_at": "2019-06-11T17:59:13.000Z",
+            "text": "🎺 da-dada-DAH! We’re introducing the first Twitter Developer Labs endpoints: \n\n✨GET/users and GET/tweets ✨\n\nLabs is now open to all developers to start experimenting today 👉 https://t.co/eNx4Wc3Qwj https://t.co/ucmZrJAYjk",
+            "author_id": "2244994945",
+            "attachments": {
+                "media_keys": [
+                    "7_1138489597158199298"
+                ]
+            },
+            "entities": {
+                "urls": [
+                    {
+                        "start": 174,
+                        "end": 197,
+                        "url": "https://t.co/eNx4Wc3Qwj",
+                        "expanded_url": "https://twittercommunity.com/t/twitter-developer-labs-is-open-to-all-developers/126717",
+                        "display_url": "twittercommunity.com/t/twitter-deve…"
+                    },
+                    {
+                        "start": 198,
+                        "end": 221,
+                        "url": "https://t.co/ucmZrJAYjk"
+                    }
+                ]
+            },
+            "format": "default"
+        }
+    ]
+}
