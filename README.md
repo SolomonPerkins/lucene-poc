@@ -1,8 +1,9 @@
 # LucenePoc
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+An Angular POC of the open source Apache Lucene project. Testing the capabilities of the full text search and indexing feature of the Lucene project.
 
 ## Development server
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
